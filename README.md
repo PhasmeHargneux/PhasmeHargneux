@@ -1,10 +1,10 @@
-# 👋 Hello, I'm Anthony Silva-Raynal!
+# 👋 Hello, I'm Anthony !
 
-## 🦅 Cybersecurity Engineer | Ethical Hacker | Network Security Enthusiast
+## 🦅 Networks Engineer | CyberSec Enthusiast
 
-🔹 Passionate about **Cybersecurity, Ethical Hacking, and Network Security**
+🔹 Passionate about **Network Security and CyberSec**
 🔹 Engineering student at **Télécom Saint-Étienne** (Bac+4, majoring in Networks & Security)
-🔹 Always building & breaking things in **Python, Linux, and Cybersecurity tools**
+🔹 Always building & breaking things in **Python, Bash and C++**
 
 ## 🚀 Projects & Open Source
 
@@ -25,6 +25,6 @@
 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/anthony-silva-raynal-11b108230)  
 
 ### ⚡ Fun Fact
-I love **CTF challenges**, automating security tools, and breaking networks just to fix them again! 😆
+I love **CTF challenges on THM and HTB**, automating security tools, and breaking networks just to fix them again! 😆
 
 🔥 **Let's build a safer internet together!** 🚀
