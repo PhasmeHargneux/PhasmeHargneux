@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hello, I'm Anthony Silva-Raynal!
 
-<!--
-**PhasmeHargneux/PhasmeHargneux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🦅 Cybersecurity Engineer | Ethical Hacker | Network Security Enthusiast
 
-Here are some ideas to get you started:
+🔹 Passionate about **Cybersecurity, Ethical Hacking, and Network Security**
+🔹 Engineering student at **Télécom Saint-Étienne** (Bac+4, majoring in Networks & Security)
+🔹 Always building & breaking things in **Python, Linux, and Cybersecurity tools**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects & Open Source
+
+### 🔍 [HawkEye - Vulnerability Scanner](https://github.com/PhasmeHargneux/HawkEye)
+🔹 A **Python-powered cybersecurity tool** that scans for open ports & retrieves WHOIS data
+🔹 Built with **Nmap, Python, and WHOIS APIs**
+🔹 Helps penetration testers & security analysts perform **quick recon**
+
+🛠 **Tech Stack:** Python | Kali | CISCO Networking Stuff
+
+## 📜 Certifications & Skills
+✅ **CCNA - Cisco Certified Network Associate**
+✅ Hands-on experience with **Wireshark, Burp Suite, Kali Linux, and CTF Challenges (HTB, THM)**
+✅ Familiar with **Penetration Testing, Threat Intelligence & Network Hardening**
+
+## 📬 Connect with Me
+🔗 **GitHub:** [github.com/PhasmeHargneux](https://github.com/PhasmeHargneux)  
+💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/anthony-silva-raynal-11b108230)  
+
+### ⚡ Fun Fact
+I love **CTF challenges**, automating security tools, and breaking networks just to fix them again! 😆
+
+🔥 **Let's build a safer internet together!** 🚀
