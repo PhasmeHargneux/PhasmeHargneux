@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Anthony !
 
-## 🦅 Networks Engineer | CyberSec Enthusiast
+## 💻 Networks Engineer | CyberSec Enthusiast
 
 🔹 Passionate about **Network Security and CyberSec**  
 🔹 Engineering student at **Télécom Saint-Étienne** (Bac+4, majoring in Networks & Security)  
