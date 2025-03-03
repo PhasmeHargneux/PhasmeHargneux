@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Anthony !
 
-## 💻 Networks Engineer | CyberSec Enthusiast
+## 💻 Networks Engineering Student | CyberSec Enthusiast
 
 🔹 Passionate about **Network Security and CyberSec**  
 🔹 Engineering student at **Télécom Saint-Étienne** (Bac+4, majoring in Networks & Security)  
@@ -13,7 +13,7 @@
 🔹 Built with **Nmap, Python, and WHOIS APIs**  
 🔹 Helps penetration testers & security analysts perform **quick recon**  
 
-🛠 **Tech Stack:** Python | Kali | CISCO Networking Stuff
+🛠 **Tech Stack:** Python | Kali | CISCO Networking Devices
 
 ## 📜 Certifications & Skills
 ✅ **CCNA - Cisco Certified Network Associate**  
